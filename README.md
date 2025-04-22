@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/76661350/151113470-62df1428-0c25-4019-
 ## Installation
 
 Clone the repository <br/>
-`git clone https://github.com/Sarvesh30112002/Cash-flow-minimizer` <br/>
+`git clone https://github.com/Ankush5046/Cash-flow-minimizer` <br/>
 `cd Cash-Flow-Minmiser`
 Check package.json file and ensure scripts are notated as below:
 
