@@ -1,6 +1,7 @@
+
 # Cash-flow-minimizer
 A React application to help users visualise and minimise cash flow among multiple transactions.
--------
+
 
 ## Introduction
 A Cash Flow Minimizer is an algorithmic solution designed to optimize the settlement of debts among a group of people or entities, minimizing the total cash flow required to settle all debts. The primary objective is to reduce the number of transactions and the amount of money exchanged, thereby streamlining the debt settlement process.
@@ -21,14 +22,12 @@ Clone the repository <br/>
 `cd Cash-Flow-Minmiser`
 Check package.json file and ensure scripts are notated as below:
 
-```
 "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-```
 
 
 Delete the node_modules folder and any 'lock' files such as 
@@ -67,3 +66,5 @@ This process continues until every person has been settled.
 
 This can be achieved using a <b>Max Heap.</b>  
 This is the solution we follow to implement our Cash Flow Minimiser.
+
+
